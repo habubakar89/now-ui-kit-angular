@@ -1,2 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~bootstrap/scss/bootstrap.scss";
+
+@font-face {
+  font-family: "Amsterdam Four";
+  src: url("/assets/fonts/Amsterdam.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Perandory Condensed";
+  src: url("/assets/fonts/perandory-condensed.ttf") format("truetype");
+}
